@@ -1,5 +1,4 @@
 # Particle forces simulator
-
-Using Rigid Body equations, the program aproximates the behaviour of a solid rectangle
+Simulates various kinds of forces acting upon particles, includinc collisions, with some adjustable variables
 
 ![til](https://github.com/sehezub/collision-simulator/blob/main/data/untitled.GIF)
